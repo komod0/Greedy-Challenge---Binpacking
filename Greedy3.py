@@ -33,6 +33,3 @@ def empacar(nombre_de_archivo):
             heapq.heappush(bins, valores[i])
 
     print(len(bins))
-
-
-empacar("1795.txt")
