@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Algos Github/.idea/Algos Github.iml" filepath="$PROJECT_DIR$/../Algos Github/.idea/Algos Github.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/BinPacking.iml" filepath="$PROJECT_DIR$/.idea/BinPacking.iml" />
+    </modules>
+  </component>
+</project>
